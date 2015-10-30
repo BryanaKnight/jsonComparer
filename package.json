@@ -1,0 +1,16 @@
+{
+  "name": "JsonComparer",
+  "version": "1.0.0",
+  "description": "Compare json keys of two inputs",
+  "main": "jsonComparer.js",
+  "scripts": {
+    "test": "mocha -R spec",
+    "testwatch": "mocha -w"
+  },
+  "author": "Bryana Knight & Tim Tyrrell",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
